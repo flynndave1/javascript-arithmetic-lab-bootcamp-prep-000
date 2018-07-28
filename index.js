@@ -1,11 +1,11 @@
 
 
-function fAdd ( x , y ) {
+function add ( x , y ) {
   sum = x + y;
   return sum
 }
 
-var T = fAdd(54 , 78)
+var T = add(54 , 78)
 T++ 
 
 console.log(T)
