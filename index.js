@@ -1,8 +1,8 @@
 
 
 function add ( a , b ) {
-  sum = b + a;
-  return sum
+  sum = a + b;
+  return sum;
 }
 
 var T = add(54 , 78)
