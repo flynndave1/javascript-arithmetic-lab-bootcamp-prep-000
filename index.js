@@ -62,6 +62,15 @@ function preserveDecimal(string) {
   return yy
 }
 
+var zz = "32.45671"
+var zz2 = preserveDecimal(zz);
+console.log(zz2);
+
+var zzDumb = "Dumbdumb!"
+var zz3 = preserveDecimal(zzDumb);
+console.log(zz3);
+
+
 
 
 
