@@ -45,6 +45,8 @@ console.log(78)
  TT = dec(78 )
 console.log(TT)
 
+
+
 function makeInt(n ) {
 parseInt(n,10);
   return n;
@@ -55,7 +57,10 @@ console.log(alpha)
 console.log(TTT)
 
 
-
+function preserveDecimal(string) {
+  
+  
+}
 
 
 
