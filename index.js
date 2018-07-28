@@ -4,33 +4,35 @@ function add ( a , b ) {
   sum = a + b;
   return sum;
 }
-var TT = add(54 , 78)
+ TT = add(54 , 78)
 console.log(TT)
 
 function subtract ( a , b ) {
   sum = a + b;
   return sum;
 }
-var TT = subtract(54 , 78)
+ TT = subtract(54 , 78)
 console.log(TT)
 
 function multiply ( a , b ) {
   sum = a + b;
   return sum;
 }
-var TT = multiply(54 , 78)
+ TT = multiply(54 , 78)
 console.log(TT)
 
 function divide ( a , b ) {
   sum = a + b;
   return sum;
 }
-var TT = add(54 , 78)
+ TT = divide(54 , 78)
 console.log(TT)
-
+/*
 function add ( a , b ) {
   sum = a + b;
   return sum;
 }
-var TT = add(54 , 78)
+ TT = add(54 , 78)
 console.log(TT)
+
+*/
