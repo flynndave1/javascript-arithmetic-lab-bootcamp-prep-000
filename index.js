@@ -27,12 +27,11 @@ function divide ( a , b ) {
 }
  TT = divide(54 , 78)
 console.log(TT)
-/*
-function add ( a , b ) {
-  sum = a + b;
-  return sum;
+
+function inc (n ) {
+ n++
+  return n;
 }
- TT = add(54 , 78)
+ TT = n(54 )
 console.log(TT)
 
-*/
