@@ -6,6 +6,6 @@ function add ( a , b ) {
 }
 
 var T = add(54 , 78)
-T++ 
+
 
 console.log(T)
