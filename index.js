@@ -1,7 +1,7 @@
 
 
-function add ( x , y ) {
-  sum = x + y;
+function add ( a , b ) {
+  sum = b + a;
   return sum
 }
 
