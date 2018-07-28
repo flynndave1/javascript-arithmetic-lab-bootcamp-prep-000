@@ -51,7 +51,7 @@ parseInt(n)
 }
 var alpha = "34"
 console.log(alpha)
- TTT = makeInt
+ TTT = makeInt(alpha);
 console.log(TTT)
 
 
