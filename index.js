@@ -32,6 +32,17 @@ function inc (n ) {
  n++
   return n;
 }
+console.log (54)
  TT = n(54 )
 console.log(TT)
+
+function dec(n ) {
+ n--
+  return n;
+}
+console.log(78)
+ TT = n(78 )
+console.log(TT)
+
+
 
