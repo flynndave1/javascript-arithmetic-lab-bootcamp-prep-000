@@ -6,6 +6,6 @@ function fAdd ( x , y ) {
 }
 
 var T = fAdd(54 , 78)
-T != 
+T += 
 
 console.log(T)
