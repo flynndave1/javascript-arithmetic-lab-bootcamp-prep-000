@@ -58,7 +58,7 @@ console.log(TTT)
 
 
 function preserveDecimal(string) {
-  
+  parseFloat( string , 10)
   
 }
 
