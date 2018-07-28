@@ -1,4 +1,5 @@
 var TT
+var TTT
 var sum
 function add ( a , b ) {
   sum = a + b;
@@ -50,8 +51,8 @@ parseInt(n)
 }
 var alpha = "34"
 console.log(alpha)
- TT = nmakeInt
-console.log(TT)
+ TTT = nmakeInt
+console.log(TTT)
 
 function inc (n ) {
  n++
