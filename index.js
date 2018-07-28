@@ -33,7 +33,7 @@ function inc (n ) {
   return n;
 }
 console.log (54)
- TT = n(54 )
+ TT = inc(54 )
 console.log(TT)
 
 function dec(n ) {
@@ -41,7 +41,23 @@ function dec(n ) {
   return n;
 }
 console.log(78)
- TT = n(78 )
+ TT = dec(78 )
+console.log(TT)
+
+function makeInt(n ) {
+parseInt(n)
+  return n;
+}
+var alpha = "34"
+console.log(alpha)
+ TT = nmakeInt
+console.log(TT)
+
+function inc (n ) {
+ n++
+  return n;
+}
+ TT = n(54 )
 console.log(TT)
 
 
