@@ -48,8 +48,8 @@ console.log(TT)
 
 
 function makeInt(n ) {
-parseInt(n,10);
-  return n;
+var xx = parseInt(n,10);
+  return xx;
 }
 var alpha = "34"
 console.log(alpha)
@@ -58,8 +58,8 @@ console.log(TTT)
 
 
 function preserveDecimal(string) {
-  parseFloat( string , 10)
-  
+  var yy = parseFloat( string , 10)
+  return yy
 }
 
 
