@@ -54,12 +54,8 @@ console.log(alpha)
  TTT = makeInt
 console.log(TTT)
 
-function inc (n ) {
- n++
-  return n;
-}
- TT = n(54 )
-console.log(TT)
+
+
 
 
 
